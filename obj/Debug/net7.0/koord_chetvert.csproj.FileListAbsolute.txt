@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\bin\Debug\net7.0\koord_chetvert.exe
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\bin\Debug\net7.0\koord_chetvert.deps.json
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\bin\Debug\net7.0\koord_chetvert.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\bin\Debug\net7.0\koord_chetvert.dll
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\bin\Debug\net7.0\koord_chetvert.pdb
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.dll
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\refint\koord_chetvert.dll
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.pdb
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\koord_chetvert.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_4\koord_chetvert\obj\Debug\net7.0\ref\koord_chetvert.dll
